@@ -18,33 +18,7 @@
 <img alt="mongo"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <div/>
   
-  ## Latest Projects: 
   
-  #### Oval Real Estate
-  
-  - [Repo](https://github.com/mohamednasr20/Oval_Real_Estate "Oval_Real_Estate Repo")
-
-- [Live](https://oval-real-estate.web.app "Live View")
-
-  
- #### Invoices App
-  
-- [Repo](https://github.com/mohamednasr20/invoce_app_mern "invoce_app_mern Repo")
-
-- [Live](https://invoiceweb.netlify.app "Live View")
-  
- ### Arch Studio
-  
-  - [Repo](https://github.com/mohamednasr20/Arch_Studio "arch_app Repo")
-  
-  - [Live](https://archapp.netlify.app "Live View")
-  
-  
-  
-
-
-
-
 
 
 
